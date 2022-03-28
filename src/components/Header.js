@@ -16,7 +16,7 @@ const Header = () => {
                     <a href="https://bearcatevents.herokuapp.com/list" className="nav-item nav-link active">Events</a>
                 </div>
                 <div className="navbar-nav ms-auto">
-                    <a href="https://hellobeareve.herokuapp.com/admin/login/" className="nav-item nav-link">Login</a>
+                    <a href="https://hellobeareve.herokuapp.com/" className="nav-item nav-link">Login</a>
                 </div>
             </div>
         </div>
